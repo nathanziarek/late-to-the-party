@@ -1,0 +1,33 @@
+<item>
+	<title>UX Engineering the Command Line</title>
+	<link>http://uxclippings.posterous.com/ux-engineering-the-command-line</link>
+	<pubDate>Fri May 20 06:48:52 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Nathan Ziarek]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://uxclippings.posterous.com/ux-engineering-the-command-line</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>I don't spend much time using the command line. When I do, it's always the same commands. There's power there, it's just never been easy enough to uncover.&nbsp;</p><p>A new project called&nbsp;<span style=""><a href="http://acko.net/blog/on-termkit">TermKit</a>&nbsp;may or may not be the answer, but the developer's ideals are incredibly attractive, and well aligned with a user experience model.&nbsp;</span></p> <blockquote class="posterous_medium_quote"><p>One of the Unix principles is nobly called “Least Surprise”, but in practice, from having observed new Unix users, I think it often becomes “Maximum Confusion”. We should be more pro-active in nudging our users in the right direction, and our tools should be designed for maximum discoverability.<p />  For example, I want to see the relevant part of a man page in a tooltip when I’m typing argument switches. I’d love for dangerous flags to be highlighted in red. I’d love to see regexp hints of possible patterns inline.</p></blockquote> <p>I look forward to watching this software progress.&nbsp;</p><p>(via&nbsp;<span style=""><a href="http://acko.net/blog/on-termkit">TermKit</a>)</span></p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[I don't spend much time using the command line. When I do, it's always the same commands. There's power there, it's just never been easy enough to uncover. A new project called TermKit may or may not be the answer, but the developer's ideals are i...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri May 20 06:48:52 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>Fri May 20 06:48:52 -0700 2011</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>53762259</wp:post_id>
+	<wp:post_name>ux-engineering-the-command-line</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

@@ -1,0 +1,41 @@
+<item>
+	<title>Speeding up the web with Amazon Silk</title>
+	<link>http://uxclippings.posterous.com/speeding-up-the-web-with-amazon-silk</link>
+	<pubDate>Wed Sep 28 08:40:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Nathan Ziarek]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="amazonsilk"><![CDATA[amazonsilk]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://uxclippings.posterous.com/speeding-up-the-web-with-amazon-silk</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Amazon today released the details about a few upcoming Kindles. The devices themselves are interesting, although evolutionary. The <a href="http://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&amp;tag=lattothepar07-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B0051VVOB2" title="Kindle Fire">Kindle Fire</a> might be the first Android tablet to seriously challenge the iPad in the tablet space.</p>
+<p>The fascinating bit is the new browser Amazon has developed named <a href="http://www.amazon.com/silk/" title="Amazon Silk">Silk</a>. It utilizes Amazon's massive cloud computing infrastructure to offload some of the work of rendering a page. It may turn out to be nothing more than the system Opera has in place for the Opera mini browser, but it's an interesting rethinking of the browser at a time when highly-portable devices are tearing up the sale charts (netbooks, smartphones, the iPad).</p>
+<p>Silk works by funneling parts of your request through AWS. Amazon claims the browser is able to make real-time, dynamic decisions as to how to use the cloud infrastructure. Are you requesting a 10 megapixel image? EC2 can rapidly downsample and deliver an 80kb instead of an 80Mb one. Amazon doesn't mention it, but they are also very capable of compressing the HTML, both in terms of removing whitespace and gzipping. Add together a number of these changes, and you might possibly shave off 50% of the total download weight.</p>
+<p>Running everything through an optimized server has other benefits as well. Once the server connection is made to EC2, those powerful, distributed, connected computers can make all future requests on your behalf. The fewer HTTP connections you make, the faster the overall experience can be. This has the possibility to make the Silk browser <em>fly</em>.</p>
+<p>Speed matters, and Silk may have it in spades.</p>
+<p>The other enhancement Amazon announced was something akin to precognition. As they gather data on where people visit (privacy issues galore), they can start to preload the next most likely link.</p>
+<p>The proof is in the pudding. This might turn out to be a slightly more famous version of what Opera already has accomplished. Still, I love the innovation.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Amazon today released the details about a few upcoming Kindles. The devices themselves are interesting, although evolutionary. The Kindle Fire might be the first Android tablet to seriously challenge the iPad in the tablet space. The fascinating b...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Sep 28 08:40:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>Wed Sep 28 08:40:00 -0700 2011</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>72872312</wp:post_id>
+	<wp:post_name>speeding-up-the-web-with-amazon-silk</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>
