@@ -1,4 +1,3 @@
-late-to-the-party
-=================
+# Late to the Party
 
-Articles featured on Late to the Party. Feel free to use with proper attribution!
+An MD-ish list of every article featured on Late to the Party. The articles are free to use, but require attribution.
