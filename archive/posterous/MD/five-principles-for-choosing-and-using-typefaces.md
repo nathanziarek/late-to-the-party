@@ -1,14 +1,12 @@
 {{{
     "summary": "",
-    "keywords": [],
+    "keywords": ["type"],
     "published-on": "2010\\12\\14"
 }}}
 
 
 # Five Principles for Choosing and Using Typefaces
 
-Smashing Magazine has a great introduction to the world of typefaces. This is written for the designer putting letters on the page, but the family breakdowns and explanations are wonderful. I'm not an art designer -- just a guy that finds the history of type fascinating -- but this was a really worthy read.
-
-Via Smashing Magazine: [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][1]
+Smashing Magazine has a great [introduction to the world of typefaces][1]. This is written for the designer putting letters on the page, but the family breakdowns and explanations are wonderful. I'm not an art designer---just a guy that finds the history of type fascinating---but this was a really worthy read.
 
  [1]: http://www.smashingmagazine.com/2010/12/14/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
