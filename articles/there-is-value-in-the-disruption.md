@@ -1,6 +1,7 @@
 {{{
   "summary": "Making things objectively better may not always equal better usability.",
-  "keywords": ["search", "facets", "ux"]
+  "keywords": ["search", "facets", "ux"],
+  "publishedOn": "April 25 2013"
 }}}
 
 #There is Value in the Disruption
@@ -19,5 +20,5 @@ In [Search Patterns][2], I came across this same idea with regards to AJAX-style
 
 It's a fascinating idea. Making things objectively better may not always be the better experience.
 
-[1]: /speed-matters "Speed Matters at Late to the Party"
+[1]: /speed-matters
 [2]: http://www.amazon.com/gp/product/0596802277/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596802277&linkCode=as2&tag=lattothepar07-20
