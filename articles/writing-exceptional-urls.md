@@ -1,7 +1,8 @@
 {{{
     "summary": "It's easy to get lulled into thinking URLs don't matter...but they're part of the interface. Learn to love them.",
     "keywords": ["urls", "seo", "ux", "canonical"],
-    "status": "draft"
+    "status": "draft",
+    "publishedOn": "January 1 2031"
 }}}
 
 #Writing Exceptional URLs

@@ -1,7 +1,8 @@
 {{{
     "summary": "Slick technique to make CSS arrows.",
     "keywords": ["ux", "css"],
-    "publishedOn": "May 1 2013"
+    "publishedOn": "May 1 2013",
+    "status": "published"
 }}}
 
 #Making CSS Borders Work for You

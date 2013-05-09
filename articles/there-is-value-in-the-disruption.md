@@ -1,7 +1,8 @@
 {{{
   "summary": "Making things objectively better may not always equal better usability.",
   "keywords": ["search", "facets", "ux"],
-  "publishedOn": "April 25 2013"
+  "publishedOn": "April 25 2013",
+  "status": "published"
 }}}
 
 #There is Value in the Disruption
