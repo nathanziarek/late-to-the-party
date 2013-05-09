@@ -1,7 +1,8 @@
 {{{
     "summary": "A huge part of our day is spent interacting with typography. Smashing Magazine offers a great primer on why fonts really matter.",
     "keywords": ["type"],
-    "publishedOn": "December 14 2010"
+    "publishedOn": "December 14 2010",
+    "status": "publish"
 }}}
 
 # Five Principles for Choosing and Using Typefaces

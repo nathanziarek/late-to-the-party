@@ -2,7 +2,7 @@
     "summary": "If you don't want Jared Spool to eviscerate your survey, practice a modicum of UX.",
     "publishedOn": "December 26 2010",
     "keywords": ["ux", "survey"],
-    "status": "published"
+    "status": "publish"
 }}}
 
 # 19 ways to ruin a survey
