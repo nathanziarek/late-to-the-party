@@ -1,7 +1,8 @@
 {{{
     "summary": "Will the Kinect's hackability build a new paradigm for human-computer interaction?",
     "keywords": ["kinect", "ux", "interaction"],
-    "publishedOn": "November 9 2010"
+    "publishedOn": "November 9 2010",
+    "status": "published"
 }}}
 
 
