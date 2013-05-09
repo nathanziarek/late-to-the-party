@@ -1,7 +1,7 @@
 {{{
     "summary": "",
     "keywords": [],
-    "published-on": "2010\\11\\18"
+    "publishedOn": "November 18 2010"
 }}}
 
 

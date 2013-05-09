@@ -1,7 +1,8 @@
 {{{
     "summary": "",
     "keywords": [],
-    "published-on": "2011\\9\\28"
+    "publishedOn": "September 28 2011",
+    "status": "draft"
 }}}
 
 se changes, and you might possibly shave off 50% of the total download weight.

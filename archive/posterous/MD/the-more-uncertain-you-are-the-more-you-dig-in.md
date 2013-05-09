@@ -1,11 +1,11 @@
 {{{
     "summary": "",
     "keywords": [],
-    "published-on": "2010\\11\\11"
+    "publishedOn": "November 11 2010"
 }}}
 
 
-# The More Uncertain You Are, The More You Dig In
+# The More Uncertain You Are, The More You Dig In Your Heels
 
 Susan Weinschenk from [whatmakesthemclick.net][1]:
 
