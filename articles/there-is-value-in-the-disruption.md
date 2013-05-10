@@ -16,7 +16,7 @@ The before-and-after was so similar---the "Copying..." message so quick---it was
 In [Search Patterns][2], I came across this same idea with regards to AJAX-style page loads. While the elegance of an opacity-animated transition relays a smoothness that round-trip page-loads will never have, it comes at a cost: the user needs to be notified that something changed, and that can be awkward.
 
 > Live search applications are like dangerously quiet hybrid vehicles. 
-> When the noise disapears, **we find it had value**.
+> When the noise disappears, **we find it had value**.
 > <cite>[Peter Morville & Jeffery Callender][2]</cite>
 
 It's a fascinating idea. Making things *objectively* better does not always make the better experience.
