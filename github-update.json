@@ -1,0 +1,76 @@
+{
+    "after": "2bd8466462c814202a50474d4abfe6cc4ee277e2", 
+    "before": "cef8531995eaddaeec6553d449c64f48c6bd96cc", 
+    "commits": [{
+        "added": [], 
+        "author": {
+            "email": "nziarek@gmail.com", 
+            "name": "nathanziarek", 
+            "username": "nathanziarek" 
+            }, 
+        "committer": {
+            "email": "nziarek@gmail.com", 
+            "name": "nathanziarek", 
+            "username": "nathanziarek" 
+            }, 
+        "distinct": true, 
+        "id": "2bd8466462c814202a50474d4abfe6cc4ee277e2", 
+        "message": "Update speed-matters.md\n\nClean up & testing of update service hook.", 
+        "modified": [ "articles/speed-matters.md" ], 
+        "removed": [], 
+        "timestamp": "2013-05-09T16:01:02-07:00", 
+        "url": "https://github.com/nathanziarek/late-to-the-party/commit/2bd8466462c814202a50474d4abfe6cc4ee277e2" 
+    }], 
+    "compare": "https://github.com/nathanziarek/late-to-the-party/compare/cef8531995ea...2bd8466462c8", 
+    "created": false, 
+    "deleted": false, 
+    "forced": false, 
+    "head_commit": {
+        "added": [], 
+        "author": {
+            "email": "nziarek@gmail.com", 
+            "name": "nathanziarek", 
+            "username": "nathanziarek" 
+            }, 
+        "committer":{
+            "email": "nziarek@gmail.com", 
+            "name": "nathanziarek", 
+            "username": "nathanziarek" 
+            }, 
+        "distinct": true, 
+        "id": "2bd8466462c814202a50474d4abfe6cc4ee277e2", 
+        "message": "Update speed-matters.md\n\nClean up & testing of update service hook.", 
+        "modified": [ "articles/speed-matters.md" ], 
+        "removed": [], 
+        "timestamp": "2013-05-09T16:01:02-07:00", 
+        "url": "https://github.com/nathanziarek/late-to-the-party/commit/2bd8466462c814202a50474d4abfe6cc4ee277e2" 
+        }, 
+    "pusher": {
+        "email": "nziarek@gmail.com", 
+        "name": "nathanziarek" 
+        }, 
+    "ref": "refs/heads/master", 
+    "repository": {
+        "created_at": 1367497955, 
+        "description": "Articles featured on Late to the Party. Feel free to use with proper attribution!", 
+        "fork": false, 
+        "forks": 0, 
+        "has_downloads": true, 
+        "has_issues": false, 
+        "has_wiki": false, 
+        "id": 9812666, 
+        "master_branch": "master", 
+        "name": "late-to-the-party", 
+        "open_issues": 0, 
+        "owner": {
+            "email": "nziarek@gmail.com", 
+            "name": "nathanziarek" 
+            }, 
+        "private": false, 
+        "pushed_at": 1368140464, 
+        "size": 1184, 
+        "stargazers": 0, 
+        "url": "https://github.com/nathanziarek/late-to-the-party", 
+        "watchers": 0 
+    } 
+}
