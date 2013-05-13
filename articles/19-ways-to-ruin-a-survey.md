@@ -5,7 +5,7 @@
     "status": "publish"
 }}}
 
-# 19 ways to ruin a survey
+# Nineteen Ways to Ruin a Survey
 
 [Jared Spool pretty much obliterates][1] United’s WiFi survey. My favorite:
 
