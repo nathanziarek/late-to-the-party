@@ -1,6 +1,6 @@
 {{{
     "summary": "",
-    "keywords": [],
+    "keywords": ["google", "typography"],
     "publishedOn": "December 3 2010"
 }}}
 
@@ -10,7 +10,8 @@
 Ever notice that Google Maps are easier to read than Bing or Yahoo's? Justin O'Beirne at 41Latitude did.
 
 > To me, Google’s labels seem to “pop” much more than the other sites’ labels. Major cities also seem to stand out much more. [1] And whenever you’re quickly scanning the maps, the label you’re searching for seems to stand out just a little sooner on Google’s maps.
-Excellent analysis of how Google makes their labels readable at varying zoom and density levels. The only thing I think the author missed was \_contrast\_. Bing maps are shades of blue and grey -- very close to the color of the text. Yahoo, meanwhile uses such rich coloring for the map, the text is lost. Google's map coloring is detailed, but muted. Even without the nice white outlines on the labels, I think it'd be easier to read.
+
+Excellent analysis of how Google makes their labels readable at varying zoom and density levels. The only thing I think the author missed was _contrast_. Bing maps are shades of blue and grey---very close to the color of the text. Yahoo, meanwhile uses such rich coloring for the map, the text is lost. Google's map coloring is detailed, but muted. Even without the nice white outlines on the labels, I think it'd be easier to read.
 
 (via 41Latitude: [Google Maps & Label Readability][1])
 
